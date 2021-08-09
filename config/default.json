@@ -1,0 +1,13 @@
+{
+  "name": "backend-api",
+  "dbEndpoint": "mongodb://localhost:27017/",
+  "dbUser": "",
+  "dbPassword": "",
+  "dbCollection": "user-collection",
+  "dbName": "mydb",
+  "pathname": "",
+  "statusCode": {
+    "missing_parameters": 431,
+    "item_not_found": 432
+  }
+}
